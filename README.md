@@ -11,9 +11,9 @@ This application has A sample Form of Student Registration along with the subjec
     4- Run migrations via this command: "php artisan migrate"
 
 
-## API EndPoints
-    Post GET All http://localhost:8000/students
-    Post GET Single http://localhost:8000/students/1
-    Post POST Create http://localhost:8000/students
-    Post PUT Update http://localhost:8000/students/1
-    Post DELETE destroy http://localhost:8000/students/1
+## Routes EndPoints
+    Students GET All http://localhost:8000/students
+    Students GET Single http://localhost:8000/students/1
+    Students POST Create http://localhost:8000/students
+    Students PUT Update http://localhost:8000/students/1
+    Students DELETE destroy http://localhost:8000/students/1
